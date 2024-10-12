@@ -1,0 +1,13 @@
+Observed counts for each number (1 to 37):
+[33., 20., 23., 28., 25., 29., 22., 32., 33., 27., 30., 29., 23., 36., 29.,
+ 19., 14., 29., 31., 29., 22., 16., 29., 30., 30., 35., 28., 28., 27., 30.,
+ 26., 21., 35., 35., 26., 29., 26.]
+
+Total observed numbers: 1014.0
+Expected frequency for each number: 27.41
+
+Chi-square statistic: 35.5740
+p-value: 0.488696
+
+Standard Deviation of observed counts: 5.1331
+Variance of observed counts: 26.3492

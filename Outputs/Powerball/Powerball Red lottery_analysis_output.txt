@@ -1,0 +1,12 @@
+Observed counts for each number (1 to 26):
+[40., 38., 42., 55., 46., 41., 39., 40., 46., 41., 40., 34., 42., 48., 33.,
+ 34., 35., 51., 40., 40., 51., 35., 38., 50., 43., 45.]
+
+Total observed numbers: 1087.0
+Expected frequency for each number: 41.81
+
+Chi-square statistic: 20.1408
+p-value: 0.739403
+
+Standard Deviation of observed counts: 5.6909
+Variance of observed counts: 32.3861

@@ -1,0 +1,14 @@
+Observed counts for each number (1 to 42):
+[250., 241., 253., 285., 216., 260., 244., 264., 255., 255., 262., 291.,
+ 266., 289., 260., 238., 249., 267., 274., 298., 257., 279., 272., 248.,
+ 267., 219., 238., 285., 258., 244., 237., 267., 256., 267., 248., 241.,
+ 244., 243., 252., 260., 242., 265.]
+
+Total observed numbers: 10806.0
+Expected frequency for each number: 257.29
+
+Chi-square statistic: 50.8484
+p-value: 0.139336
+
+Standard Deviation of observed counts: 17.6491
+Variance of observed counts: 311.4898

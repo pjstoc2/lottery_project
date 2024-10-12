@@ -1,0 +1,13 @@
+Observed counts for each number (1 to 40):
+[80., 74., 67., 94., 69., 74., 60., 69., 67., 78., 81., 76., 68., 74., 69.,
+ 74., 82., 80., 76., 68., 63., 65., 83., 85., 82., 77., 67., 62., 67., 73.,
+ 76., 73., 70., 68., 83., 66., 87., 82., 88., 73.]
+
+Total observed numbers: 2970.0
+Expected frequency for each number: 74.25
+
+Chi-square statistic: 32.3165
+p-value: 0.766752
+
+Standard Deviation of observed counts: 7.7452
+Variance of observed counts: 59.9875

@@ -1,0 +1,14 @@
+Observed counts for each number (1 to 39):
+[1271., 1303., 1295., 1252., 1286., 1361., 1337., 1282., 1254., 1312.,
+ 1266., 1258., 1254., 1227., 1316., 1277., 1319., 1317., 1317., 1289.,
+ 1305., 1316., 1282., 1261., 1261., 1301., 1245., 1241., 1269., 1231.,
+ 1332., 1263., 1257., 1305., 1289., 1274., 1268., 1252., 1265.]
+
+Total observed numbers: 50010.0
+Expected frequency for each number: 1282.31
+
+Chi-square statistic: 28.4989
+p-value: 0.868323
+
+Standard Deviation of observed counts: 30.6110
+Variance of observed counts: 937.0335

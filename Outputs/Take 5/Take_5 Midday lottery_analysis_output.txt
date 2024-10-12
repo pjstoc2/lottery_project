@@ -1,0 +1,14 @@
+Observed counts for each number (1 to 39):
+[137., 145., 152., 152., 127., 138., 136., 147., 147., 147., 150., 173.,
+ 130., 158., 154., 155., 138., 168., 156., 159., 146., 140., 161., 121.,
+ 151., 156., 152., 133., 130., 138., 149., 136., 158., 133., 146., 121.,
+ 147., 158., 145.]
+
+Total observed numbers: 5690.0
+Expected frequency for each number: 145.90
+
+Chi-square statistic: 37.8183
+p-value: 0.477783
+
+Standard Deviation of observed counts: 11.8944
+Variance of observed counts: 141.4767

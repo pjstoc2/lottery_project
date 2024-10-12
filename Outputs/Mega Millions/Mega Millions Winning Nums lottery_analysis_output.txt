@@ -1,0 +1,15 @@
+Observed counts for each number (1 to 70):
+[51., 49., 67., 53., 45., 52., 53., 61., 45., 67., 55., 47., 49., 62., 61.,
+ 52., 64., 55., 53., 58., 44., 55., 45., 53., 52., 54., 48., 51., 58., 53.,
+ 62., 49., 54., 48., 41., 43., 49., 60., 45., 53., 45., 55., 56., 57., 43.,
+ 61., 45., 51., 36., 42., 38., 47., 54., 48., 43., 44., 50., 55., 55., 44.,
+ 56., 53., 45., 60., 41., 57., 44., 46., 46., 52.]
+
+Total observed numbers: 3585.0
+Expected frequency for each number: 51.21
+
+Chi-square statistic: 62.4393
+p-value: 0.698462
+
+Standard Deviation of observed counts: 6.7589
+Variance of observed counts: 45.6827

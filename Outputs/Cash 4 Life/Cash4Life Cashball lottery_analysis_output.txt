@@ -1,0 +1,11 @@
+Observed counts for each number (1 to 4):
+[630., 597., 608., 585.]
+
+Total observed numbers: 2420.0
+Expected frequency for each number: 605.00
+
+Chi-square statistic: 1.8149
+p-value: 0.611703
+
+Standard Deviation of observed counts: 16.5680
+Variance of observed counts: 274.5000

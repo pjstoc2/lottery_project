@@ -1,0 +1,14 @@
+Observed counts for each number (1 to 37):
+[ 91.,  85.,  90., 101.,  89.,  98.,  98., 101., 108.,  96.,  97.,  77.,
+ 112.,  95., 116.,  84.,  98.,  89.,  86.,  86., 108.,  93.,  97.,  98.,
+  80., 103., 100.,  92.,  96., 109., 106., 105.,  81.,  97., 103., 101.,
+  83.]
+
+Total observed numbers: 3549.0
+Expected frequency for each number: 95.92
+
+Chi-square statistic: 32.9732
+p-value: 0.613325
+
+Standard Deviation of observed counts: 9.2455
+Variance of observed counts: 85.4799
